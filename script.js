@@ -29,9 +29,9 @@ const educationdeltail =[
 
 const skillarray =["MONGODB","HTML5","JAVASCRIPT",'EXPRESS.JS',"NODE.JS","CSS","REACT.JS","BOOTSTRAP","TALWIND","NPM","FIGMA","DSA"]
 const certificatearray = ['social.jpg','samarthcetificate.jpg','digitalmarke.jpg',];
-const projectLink = ["https://github.com/nik-89hil/quiz-app.git","https://github.com/nik-89hil/Age_calculator.git","https://github.com/nik-89hil/album45.git","https://github.com/nik-89hil/staticlinkedIn.git","https://github.com/nik-89hil/airbnb-clone.git"];
+const projectLink = ['https://nik-89hil.github.io/Static_LinkedIn/',"https://github.com/nik-89hil/quiz-app.git","https://github.com/nik-89hil/Age_calculator.git","https://github.com/nik-89hil/airbnb-clone.git"];
 
-const projectName = ["Quiz App","Age Calculator","Gallery Grid","StaticLinkedin","Airbnb-clone","Coming Soon"];
+const projectName = ["StaticLinkedin","Quiz App","Age Calculator","Gallery Grid","Airbnb-clone","Coming Soon"];
 
 
 function addActive() {
